@@ -1,0 +1,36 @@
+
+    /-------------------------------------\
+    | /---------------------------------\ |
+    | |                                 | |
+    | |  BuscaminasBot   Version 1.0    | |
+    | |                                 | |
+    | |            by Tadashi Akagi :D  | |
+    | |                                 | |
+    | |      15/04/2014                 | |
+    | |                                 | |
+    | \---------------------------------/ |
+    \-------------------------------------/
+
+ Leer antes de jugar:
+   *Despues de detectar el juego buscaminas, en
+      NINGUN MOMENTO se debe mover del lugar.
+      Puede ocacionar fallos en el BuscaminasBot.
+      Si se ha movido de su lugar, vuelva a
+      detectar el juego.
+   *Funciona para buscaminas de WindowsXP con
+      color. Sin color, el programa no podra
+      detectar el juego.
+   *Asegurese que la ventana de buscaminas no este
+      oculto. Se requiere que sea completamente
+      visible. Es fundamental para que el programa
+      funcione correctamente.
+
+ Manual:
+   *Una vez abierto Buscaminas de XP, click en
+      "Detectar Buscaminas".
+   *Luego de ser detectado, click en "Jugar".
+   *No siempre es posible ganar el juego. Si pierde,
+      click en la carita de Buscaminas para reiniciar
+      el juego y de nuevo click en "Jugar" (ya no
+      hace falta "Detectar" de nuevo).
+   *Diviertete!
